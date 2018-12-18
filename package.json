@@ -3,6 +3,8 @@
 	"author": "priya-2", 
 	"description": "A project that does something good",
 	"keywords" :["freecodecamp","npm","node.js"],
+	"license": "MIT",
+	
 	"dependencies": {
 		"express": "^4.14.0"
 	},
